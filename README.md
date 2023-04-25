@@ -20,3 +20,4 @@
 
 #### 機能案Cさん
 - Visual Studio Code上でプルリクエストを発行します
+- GitHubのWeb上でプルリクエストを発行します
